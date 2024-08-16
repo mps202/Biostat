@@ -9,11 +9,7 @@ Objectives for Diabetes Risk Analysis Project:
 This dataset provides a valuable opportunity to explore how various factors are associated with the likelihood of developing diabetes. By analyzing these variables, we aim to uncover critical patterns and relationships that can inform personalized healthcare strategies and public health interventions. The goal of this project is to leverage data-driven insights to enhance our understanding of diabetes risk factors, support preventive measures, and contribute to better management practices for individuals at risk. 
 
 
-class 'pandas.core.frame.DataFrame'>
-RangeIndex: 70692 entries, 0 to 70691
-Data columns (total 18 columns):
- #   Column                Non-Null Count  Dtype  
----  ------                --------------  -----  
+--  ------                --------------  -----  
  0   Age                   70692 non-null  float64
  1   Sex                   70692 non-null  float64
  2   HighChol              70692 non-null  float64
